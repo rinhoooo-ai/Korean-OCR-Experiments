@@ -1,6 +1,6 @@
 # Korean OCR Project
 
-**Author:** Phu Viet Tran, Phong Hoai Nguyen, Hung Dang Pham
+**Author:** Phu Viet Tran, Phong Hoai Nguyen, Hung Dang Pham  
 **Date:** October 12th 2025
 
 ## 1. Project Overview
