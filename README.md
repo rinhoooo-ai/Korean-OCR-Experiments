@@ -20,18 +20,18 @@ This is a project from hackathon Chung's Innovation Challenge hosted in Ho Chi M
 These results demonstrate the effectiveness of this pipeline.
 
 ## 3. Repository Structure
-Korean-OCR-Experiments/
-├─ notebooks/ 
-│ ├─ ocr_experiments_raw.ipynb
-│ └─ ocr_experiments_clean.ipynb
-├─ src/
-│ ├─ preprocessing.py
-│ ├─ model.py
-│ └─ postprocessing.py
-├─ presentation.pptx # Presentation slides
-├─ requirements.txt # Python dependencies
-└─ README.md # Project description and instructions
-
+Korean-OCR-Experiments/  
+├─ notebooks/   
+│ ├─ ocr_experiments_raw.ipynb   
+│ └─ ocr_experiments_clean.ipynb   
+├─ src/   
+│ ├─ preprocessing.py  
+│ ├─ model.py  
+│ └─ postprocessing.py  
+├─ presentation.pptx # Presentation slides  
+├─ requirements.txt # Python dependencies  
+└─ README.md # Project description and instructions  
+  
 
 ## 4. Notes
 - Some helper code and comments were assisted by ChatGPT, but the pipeline, models, preprocess ideas were come up with and tested by the authors.
