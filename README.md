@@ -8,7 +8,6 @@ This is a project from hackathon Chung's Innovation Challenge hosted in Ho Chi M
 1. **Preprocessing:** grayscale, gaussian blur, deskew, CLAHE, denoise, sharpen, and adaptive threshold.  
 2. **OCR:** PaddleOCR (Korean language model).  
 3. **Postprocessing:** Korean text segmentation using `konlpy` (Okt tokenizer) to improve text quality.  
-*Note: Dataset is proprietary and part of a competition; only code and results are shared.*
 
 ## 2. Results
 
@@ -36,4 +35,4 @@ Korean-OCR-Experiments/
 
 ## 4. Notes
 - Some helper code and comments were assisted by ChatGPT, but the pipeline, models, preprocess ideas were come up with and tested by the authors.
-- Dataset is private.
+- Dataset is private in the competition, cannot be shared.
